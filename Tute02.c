@@ -21,7 +21,7 @@ int main(void){
 	
 	float distance, amount;
 
-  printf("Enter the distance the van has travelled :");
+  printf("Enter the distance the van has travelled : ");
   scanf("%f", &distance);
 
   if(distance <= 30){

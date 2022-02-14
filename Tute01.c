@@ -8,10 +8,10 @@ int main(void){
 	float mark1, mark2;
 	float total, average;
 
-  printf("Enter student First Mark :");
+  printf("Enter student First Mark : ");
   scanf("%f", &mark1);
       
-  printf("Enter student Second Mark :");
+  printf("Enter student Second Mark : ");
   scanf("%f", &mark2);
 
   total = mark1 + mark2;
